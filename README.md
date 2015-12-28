@@ -1,5 +1,5 @@
-Thread pooled TCP server
-========================
+Thread pooled TCP Chat server
+=============================
 
 Uses Java 7 features.  
 Relies on `java.util.concurrent.Executors` for thread pooling, `java.net.*`  for networking.  
